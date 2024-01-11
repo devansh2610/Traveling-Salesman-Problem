@@ -52,5 +52,5 @@ The loop draws lines between connected cities, circles representing cities (gree
 
 ## Collaborators
 Devansh Grover  
-Manan Agarwal  
+Manan Aggarwal  
 Utkarsh Dilliwal  
